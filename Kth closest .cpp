@@ -1,4 +1,4 @@
-
+// put 6 condition to solve this 
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
