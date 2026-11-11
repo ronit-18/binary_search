@@ -37,6 +37,6 @@ bool check(int mid,vector<int>& weights, int days){
             }
             else l = mid +1;
         }
-        return minCapicity;
+       return minCapicity;
     }
 };
